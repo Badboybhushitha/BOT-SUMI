@@ -8,7 +8,7 @@ BOT
 
 > <a href="https://youtu.be/uzMbW5v9QLE"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [SUMI BOT TEAM](https://github.com/Badboybhushitha/BOT-SUMI)
+> [Automated Multi Device whatsapp bot created](https://github.com/Badboybhushitha/BOT-SUMI) by [SUMI BOT TEAM](https://github.com/Badboybhushitha/BOT-SUMI)
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
