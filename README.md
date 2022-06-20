@@ -8,7 +8,7 @@ BOT
 
 > <a href="https://youtu.be/uzMbW5v9QLE"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-> [Automated Multi Device whatsapp bot created](https://github.com/Badboybhushitha/BOT-SUMI) by [SUMI BOT TEAM](https://github.com/Badboybhushitha/BOT-SUMI)
+> [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [SUMI BOT TEAM](https://github.com/Badboybhushitha/BOT-SUMI)
 
 > Dont forget to give a star bro. IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
@@ -144,7 +144,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94742427578"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94742427578"><img src="https://user-images.githubusercontent.com/103347448/174467241-4ba0c1ef-6e71-4526-a6be" />
 <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
